@@ -6,6 +6,10 @@
 
 One sentence, up to 200 characters, on the best advice you ever received. A judge model compares them pairwise and the line that carries the most lived truth wins.
 
+## The entry
+
+`main.ts` writes a single sentence to `/output/entry.txt`: "My grandmother told me, shelling peas on her porch, that the quickest way to be forgiven is to stop asking for it and start making it right instead."
+
 ## Run it
 
 ```sh
